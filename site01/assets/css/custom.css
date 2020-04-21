@@ -19,7 +19,7 @@ header {
 }
 #educacional .container {
     height: 22em;
-    background-image: url('../img/bkg-jumbotron.jpg');
+    background-image: url('../imagens/bkg-jumbotron.jpg');
     background-repeat: no-repeat;
     background-position: right center;
     color: #fff;
@@ -66,7 +66,7 @@ footer .copyright a {
     color: #939598;
 }
 #contato {
-    background-image: url('../img/bkg-contato.jpg');
+    background-image: url('../imagens/bkg-contato.jpg');
     background-repeat: no-repeat;
     padding: 4em 0;
 }header {
@@ -90,7 +90,7 @@ footer .copyright a {
 }
 #educacional .container {
     height: 22em;
-    background-image: url('../img/bkg-jumbotron.jpg');
+    background-image: url('../imagens/bkg-jumbotron.jpg');
     background-repeat: no-repeat;
     background-position: right center;
     color: #fff;
@@ -99,7 +99,7 @@ footer .copyright a {
     padding-top: 1em;
 }
 #educacional .lead {
-    max-width: 30em;
+    max-width: 20em;
 }
 #quemsomos {
     padding: 2em 0;
@@ -137,7 +137,7 @@ footer .copyright a {
     color: #939598;
 }
 #contato {
-    background-image: url('../img/bkg-contato.jpg');
+    background-image: url('../imagens/bkg-contato.jpg');
     background-repeat: no-repeat;
     padding: 4em 0;
 }
